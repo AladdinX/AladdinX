@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alaa ;
 - 👀 I’m interested in bulding a world with easy, cool and interactive user experince on web ;
-- 🌱 I can JavaScript-TypeScript-FireBase-HTML-CSS; // Currently learning React.js
-- 💞️ I’m looking to internship as Front-End Developer 28 november 2022– 24 april 2023 ;
+- 🌱 I can JavaScript-React-TypeScript-FireBase-HTML-CSS; 
+- 💞️ I’m starting an internship as Front-End Developer 28 november 2022– 24 april 2023 with Seasony;
 - 📫 alaa.aldroubi@gmail.com
 
 <hr>
